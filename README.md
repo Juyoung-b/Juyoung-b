@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>🐱Juyoung🐱</h3>
-I stu
+<br><h4>🐱Juyoung🐱</h4>
 
+Studied 🇭🇺 & 👩‍💻(Software&AI)
 
-<h3>🍒Skills🍒</h3>
+<br>
+<h4>🍒Skills🍒</h4>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
 
 
-<h3>💓Interest💓</h3>
+<br><h4>💓Interest💓</h4>
