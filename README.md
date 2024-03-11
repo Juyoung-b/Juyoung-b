@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juyoung Lee</h1>
-<h3 align="center">An AI developer / Indie Hacker from South Korea</h3>
+<h3 align="center">An AI developer / Indie Hacker from South Korea!💖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juyoung-b&label=Profile%20views&color=0e75b6&style=flat" alt="juyoung-b" /> </p>
 
@@ -7,25 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **1**
+- 🔭 I’m currently working on **building a startup as an indiehacker**
 
-- 🌱 I’m currently learning **2**
-
-- 👯 I’m looking to collaborate on **1**
-
-- 🤝 I’m looking for help with **1**
+- 🌱 I’m currently learning **Generative AI, making a movie**
 
 - 👨‍💻 All of my projects are available at [2](2)
 
 - 📝 I regularly write articles on [2](2)
 
-- 💬 Ask me about **2**
-
 - 📫 How to reach me **2**
 
 - 📄 Know about my experiences [2](2)
 
-- ⚡ Fun fact **2**
+- ⚡ Fun fact **My Goal in 2024 : build 10 startups!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
