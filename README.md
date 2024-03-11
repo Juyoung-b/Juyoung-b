@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **Generative AI, making a movie**
   
-- ⚡ Fun fact **My Goal in 2024 : build 10 startups!**
+- ⚡ Fun fact **My Goal in 2024 : build 10 startups!**  
+  
+- Studied 🇭🇺(Hungarian) & 👩‍💻(Software&AI)
 
 </h3>
 <p align="left">
@@ -40,7 +42,7 @@ Here are some ideas to get you started:
 -->
 <br><h4>🐱Juyoung🐱</h4>
 
-Studied 🇭🇺 & 👩‍💻(Software&AI)
+
 
 <br>
 <h4>🍒Skills🍒</h4>
