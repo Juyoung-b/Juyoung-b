@@ -26,7 +26,20 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juyoung-b&" alt="juyoung-b" /></p>
 <!--
 **Juyoung-b/Juyoung-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
 
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/USERNAME"
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
