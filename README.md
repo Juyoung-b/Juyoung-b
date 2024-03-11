@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juyoung Lee</h1>
-<h3 align="center">A passionate AI developer from South Korea</h3>
+<h3 align="center">An AI developer / Indie Hacker from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juyoung-b&label=Profile%20views&color=0e75b6&style=flat" alt="juyoung-b" /> </p>
 
