@@ -13,7 +13,9 @@
   
 - ⚡ Fun fact **My Goal in 2024 : build 10 startups!**  
   
-- Studied 🇭🇺(Hungarian) & 👩‍💻(Software&AI)
+- 👩‍🎓 Studied **🇭🇺(Hungarian) & 👩‍💻(Software&AI)**
+  
+- 💓 Interested in .. making our life better using AI
 
 </h3>
 <p align="left">
