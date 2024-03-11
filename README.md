@@ -29,7 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juyoung-b&show_icons=true&locale=en&layout=compact" alt="juyoung-b" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juyoung-b&show_icons=true&locale=en" alt="juyoung-b" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juyoung-b&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juyoung-b&" alt="juyoung-b" /></p>
 <!--
 **Juyoung-b/Juyoung-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
