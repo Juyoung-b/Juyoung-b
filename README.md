@@ -10,13 +10,7 @@
 - 🔭 I’m currently working on **building a startup as an indiehacker**
 
 - 🌱 I’m currently learning **Generative AI, making a movie**
-
-- 👨‍💻 All of my projects are available at [2](2)
-
-- 📝 I regularly write articles on [2](2)
-
-- 📄 Know about my experiences [2](2)
-
+  
 - ⚡ Fun fact **My Goal in 2024 : build 10 startups!**
 
 </h3>
