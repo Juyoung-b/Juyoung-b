@@ -19,8 +19,6 @@
 
 - ⚡ Fun fact **My Goal in 2024 : build 10 startups!**
 
-<h3 align="left">Connect with me:  
-📫 summercheriy@gmail.com
 </h3>
 <p align="left">
 </p>
