@@ -24,3 +24,5 @@ Studied 🇭🇺 & 👩‍💻(Software&AI)
 
 <br><h4>💓Interest💓</h4>
 nlp, data science, Autonomous vehicle, AI ethics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juyoung-b)](https://github.com/anuraghazra/github-readme-stats)
