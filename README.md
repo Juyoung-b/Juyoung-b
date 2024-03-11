@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [2](2)
 
-- 📫 How to reach me **2**
-
 - 📄 Know about my experiences [2](2)
 
 - ⚡ Fun fact **My Goal in 2024 : build 10 startups!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:  
+📫 summercheriy@gmail.com
+</h3>
 <p align="left">
 </p>
 
