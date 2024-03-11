@@ -15,7 +15,7 @@
   
 - 👩‍🎓 Studied **🇭🇺(Hungarian) & 👩‍💻(Software&AI)**
   
-- 💓 Interested in .. making our life better using AI
+- 💓 Interested in.. **Making our life better using AI**
 
 </h3>
 <p align="left">
