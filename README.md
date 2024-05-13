@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Generative AI, making a movie**
   
 - ⚡ Fun fact **My Goal in 2024 : build 10 startups!**
-- 1. retrotasker : retrotasker.vercel.app
+- 1. retrotasker : https://retrotasker.vercel.app
   
 - 👩‍🎓 Studied **🇭🇺(Hungarian) & 👩‍💻(Software&AI)**
   
