@@ -12,7 +12,9 @@
 - 🌱 I’m currently learning **Generative AI, making a movie**
   
 - ⚡ Fun fact **My Goal in 2024 : build 10 startups!**
-- 1. retrotasker : https://retrotasker.vercel.app
+- 0.turtle-journey (AI travel planner, X)
+- 1. retrotasker : https://retrotasker.com
+  2. turtle-sitight : https://www.turtle-sitight.com/
   
 - 👩‍🎓 Studied **🇭🇺(Hungarian) & 👩‍💻(Software&AI)**
   
