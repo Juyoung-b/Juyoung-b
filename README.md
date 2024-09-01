@@ -18,7 +18,8 @@
 - 1. turtle-journey (AI travel planner, X)
   2. turtle-sitight : https://www.turtle-sitight.com/
   3. retrotasker : https://retrotasker.com
-  4. 
+  4. Signature : https://aisigntaure.live
+  5. AI Jobs : https://www.aicareersnet.com
   
 - 👩‍🎓 Studied **🇭🇺(Hungarian) & 👩‍💻(Software&AI)**
   
